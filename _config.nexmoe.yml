@@ -26,13 +26,13 @@ iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
 
 menu:
     回到首页:
-        - ./
+        - /
         - icon-home
     文章归档:
-        - ./archive.html
+        - /archive.html
         - icon-container
     关于博主:
-        - ./about.html
+        - /about.html
         - icon-info-circle
 
 widgets:
