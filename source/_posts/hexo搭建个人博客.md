@@ -46,3 +46,4 @@ hexo server
 ```
 来启动我们的项目，然后打开http://localhost:4000/ 便可以看到初始化的效果：
 ![Hexo](https://pic3.zhimg.com/v2-c693e9c19beaab2350bebd5be2552362_r.jpg)
+我们的博客就基本完成了。

@@ -4,8 +4,8 @@ background: # 既是博客的背景，又是文章默认头图
     width: 1280
     height: 726
 favicon:
-  href: ./favicon.ico # 网站图标
-  type: image/x-icon # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
+  href: https://q1.qlogo.cn/g?b=qq&nk=2235843602&s=640 # 网站 Logo
+  type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
   globalToc: true # 开启该功能会自动开启文章 TOC（文章目录） 功能
@@ -47,11 +47,11 @@ widgets:
       enable: true
       options: 
         social:
-            QQ群:
-                - https://jq.qq.com/?_wv=1027&k=5CfKHun
+            QQ:
+                - https://qm.qq.com/q/SbD3QJomqc
                 - icon-QQ
-                - rgb(249, 174, 8)
-                - rgba(249, 174, 8, .1)
+                - rgb(64, 174, 245)
+                - rgba(128, 174, 245, .1)
             Github:
                 - https://github.com/codemiao08
                 - icon-github
