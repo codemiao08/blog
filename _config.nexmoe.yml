@@ -52,7 +52,7 @@ widgets:
                 - icon-QQ
                 - rgb(64, 174, 245)
                 - rgba(128, 174, 245, .1)
-            邮箱: 
+            mail: 
                 - mailto://codemiao@outlook.com
                 - icon-mail-fill
                 - rgb(249, 8, 8)
