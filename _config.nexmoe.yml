@@ -22,7 +22,7 @@ customStyles:
   - custom.css
   
 # 附加图标库 使用说明：https://docs.nexmoe.com/config/icon
-iconlib: # //at.alicdn.com/t/font_1038733_0xvrvpg9c0r.css
+iconlib: //at.alicdn.com/t/font_2421060_8z08qcz5sq3.css
 
 menu:
     回到首页:
@@ -52,6 +52,16 @@ widgets:
                 - icon-QQ
                 - rgb(64, 174, 245)
                 - rgba(128, 174, 245, .1)
+            邮箱: 
+                - mailto://codemiao@outlook.com
+                - icon-mail-fill
+                - rgb(249, 8, 8)
+                - rgba(249, 8, 8, .1)
+            Gitee: 
+                - https://gitee.com/codemiao08
+                - icon-mayun
+                - rgb(255,255, 255)
+                - rgb(199 29, 35)
             Github:
                 - https://github.com/codemiao08
                 - icon-github
