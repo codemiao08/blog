@@ -53,7 +53,7 @@ widgets:
                 - rgb(64, 174, 245)
                 - rgba(128, 174, 245, .1)
             mail: 
-                - mailto://codemiao@outlook.com
+                - mailto:codemiao@outlook.com
                 - icon-mail-fill
                 - rgb(249, 8, 8)
                 - rgba(249, 8, 8, .1)
