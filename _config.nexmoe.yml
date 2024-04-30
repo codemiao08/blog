@@ -41,7 +41,7 @@ widgets:
       options: 
         search: 
             type: local # 可选engine（用搜索引擎搜索）、swiftype、或local（本地搜索）
-            url: https://cn.bing.com/search?q=site:codemiao08.gitee.io # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
+            url: https://cn.bing.com/search?q=site:codemiao08.github.io # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
             id: <swiftype-id> # swiftype的id，见启用教程。在type为engine时无效
     - name: social
       enable: true
@@ -94,7 +94,7 @@ widgets:
         widgetLink: #链接组件
             - title: CoderMeow
               img: https://q1.qlogo.cn/g?b=qq&nk=2235843602&s=640
-              link : https://codemiao08.gitee.io/blog
+              link : https://codemiao08.github.io/
 
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
