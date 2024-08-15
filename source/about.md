@@ -7,21 +7,14 @@ abbrlink: about
 date: 2016-08-20
 ---
 
-08 年出生，为热爱战斗着，努力学着变得勇敢
+08 年出生，为梦想而奋斗着。
 
 ## 我是谁
 
-我是编码喵（CoderMeow）
-
-## 作品
-
-<script src="https://store.chainwon.com/client.js"
-data-id="63908420e127c076e239"
-data-spacing="24"
-data-offset="24"
-        async></script>
+我是编码喵（CoderMeow），一名来自华南师范大学附属中学（知识城校区）的高中生。<br/>
+码星Labs：[一个青少年编程云组织](https://www.codestarlabs.top)
 
 ## 其他
 
-- [听音乐 - 网易云音乐](https://music.163.com/#/user/home?id=129387613)
-- [看书、电影 - 豆瓣](https://www.douban.com/people/nexmoe/)
+- [听音乐 - 网易云音乐](https://music.163.com/#/user/home?id=9132653226)
+- [编程猫 - 神奇代码岛](https://box3.codemao.cn/codemiao2008)
